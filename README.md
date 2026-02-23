@@ -12,4 +12,5 @@ The code can be executed on CPU or GPU using DirectX 12, CUDA or Vulkan.
 Please look into Scenes folder for some examples. There are also some example Slang code in Presets folder.
 
 ## UI
-<img width="442" height="496" alt="image" src="https://github.com/user-attachments/assets/4c4695cd-07b0-40ab-8e46-7531d0000e17" />
+<img width="442" height="501" alt="image" src="https://github.com/user-attachments/assets/c74f2f68-e46e-4f8c-8180-01a63e17d550" />
+
