@@ -3,7 +3,7 @@
 Slang4D is integration of [Slang Shading Language](https://shader-slang.org/) into Cinema 4D 2026.
 
 Currently there are 3 main plugins:  
-* SlangPolygen - compiles and executes Slang code to parametric polygon object. 
+* SlangPolygen - compiles and executes Slang code to create a parametric polygon object. 
 * SlangSpline - compiles and executes Slang code to create a parametric spline.
 * SlangDeformer - compiles and executes Slang code to deform splines or polygon objects.
 
