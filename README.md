@@ -2,13 +2,16 @@
 
 Slang4D is integration of [Slang Shading Language](https://shader-slang.org/) into Cinema 4D 2026.
 
-Currently there are 6 plugins:  
-**SlangPolygen** - compiles and executes Slang code to create a parametric polygon object. 
-**SlangSpline** - compiles and executes Slang code to create a parametric spline.
-**SlangDeformer** - compiles and executes Slang code to deform splines or polygon objects.
-**Slang Effector** - Create custom MoGraph effects with GPU-accelerated field sampling.
-**Slang Tag** - Process vertex maps, vertex colors, and point selections per-frame.
-**Slang VideoPost** - Implement custom image filters and render-pass processing.
+Currently there are 6 plugins: 
+| Plugin | Description |
+| :--- | :--- |
+| **Slang Polygen** |  compiles and executes Slang code to create a parametric polygon object. | 
+| **Slang Spline** |  compiles and executes Slang code to create a parametric spline. | 
+| **Slang Deformer** |  compiles and executes Slang code to deform splines or polygon objects. | 
+| **Slang Effector** |  Create custom MoGraph effects with GPU-accelerated field sampling. | 
+| **Slang Tag** |  Process vertex maps, vertex colors, and point selections per-frame. | 
+| **Slang VideoPost** |  Implement custom image filters and render-pass processing. | 
+
 
 The code can be executed on CPU or GPU using DirectX 12, CUDA or Vulkan. 
 
