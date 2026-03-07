@@ -24,4 +24,5 @@ Please look into Scenes folder for some examples. There are also some example Sl
 ---
 ## Resources
 - **GitHub Repository**: [Cinema4D_2026_Plugins](https://github.com/Remotion/Cinema4D_2026_Plugins)
+- **Slang Shading Language**: [Slang](https://shader-slang.org/)
 - **Developer**: Remotion (c) 2020 - 2026
