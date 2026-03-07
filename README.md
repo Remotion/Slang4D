@@ -22,5 +22,6 @@ Please look into Scenes folder for some examples. There are also some example Sl
 <img width="325" height="147" alt="image" src="https://github.com/user-attachments/assets/bd0aa402-b0d1-4920-80fb-b3b5b75de183" />
 
 ---
-
-**Developer**: Remotion (c) 2020 - 2026
+## Resources
+- **GitHub Repository**: [Cinema4D_2026_Plugins](https://github.com/Remotion/Cinema4D_2026_Plugins)
+- **Developer**: Remotion (c) 2020 - 2026
