@@ -21,7 +21,7 @@ Please look into Scenes folder for some examples. There are also some example Sl
 
 ## UI
 <img width="442" height="501" alt="image" src="https://github.com/user-attachments/assets/c74f2f68-e46e-4f8c-8180-01a63e17d550" />
-
+<img width="442" height="501" alt="image" src="https://github.com/Remotion/Slang4D/blob/main/images/Editor_Splines_2026-03-15.jpg" />
 
 ---
 ## Resources
